@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZTYxZGU1NTMyZDFhYjY3YTVhY2MwZTJlNjE3MWRiMTM5NzBlZDYzZDM2ZmZhNjEzOTgwZmQwMWE2NGZlNjM0NzI3OTdmMDNiM2JjZjUwY2VmM2Q4OWMyNzRiNWM4ZTFkOWE5ODE3ZDU2NzkzZDkxNDc0ZGI0ZGMzNTVjZGUzOGI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "marcopgordillo",
+  "repository-name": "jhipster-sample-application"
+}
